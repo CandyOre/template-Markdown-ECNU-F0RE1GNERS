@@ -375,7 +375,7 @@ $if(logo)$
 $endif$
 $endif$
 
-\title{\vspace{50mm} \Some Additions For 2021 School Competation \\[20pt]}
+\title{\vspace{50mm} \huge Some Additions For 2021 School Competation \\[20pt]}
 \author{CandyOre \\[10pt] HIT}
 \date{\today}
 
