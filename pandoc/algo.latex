@@ -375,8 +375,8 @@ $if(logo)$
 $endif$
 $endif$
 
-\title{\vspace{50mm} \huge Standard Code Library \\[20pt]}
-\author{Your TeamName \\[10pt] Your School}
+\title{\vspace{50mm} \Some Additions For 2021 School Competation \\[20pt]}
+\author{CandyOre \\[10pt] HIT}
 \date{\today}
 
 
